@@ -1,4 +1,4 @@
 baseURL = "https://tarea-hugo-1.netlify.app/"
 languageCode = "en-us"
 title = "Derian Blog"
-theme = "tale"
+theme = "bilberry"
